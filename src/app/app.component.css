@@ -1,0 +1,8 @@
+.container {
+  text-align: center;
+}
+#local-container,
+#remote-player-container {
+  display: inline-block;
+  margin: 10px;
+}
